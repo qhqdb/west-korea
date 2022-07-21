@@ -27,4 +27,4 @@ HTML | Tailwind
 CSS | Materialize
 C# | Node.js (Express, Inquirer)
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/west-korea/github-stats/master/generated/overview.svg#gh-dark-mode-only)
