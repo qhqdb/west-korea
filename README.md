@@ -15,6 +15,7 @@
 
 📫 If you're a recruiter, please download my resume [here](http://qwods.dev/).  I welcome the opportunity for an interview to discuss the performance you can expect from me.
 
+![](https://raw.githubusercontent.com/west-korea/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ## My tech stack
 
@@ -25,5 +26,5 @@
 | SQL | Bootstrap |
 | HTML | Tailwind |
 | CSS | Materialize |
-| C# | Node.js (Express, Inquirer). | ![](https://raw.githubusercontent.com/west-korea/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+| C# | Node.js (Express, Inquirer). |
 
