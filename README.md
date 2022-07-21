@@ -18,13 +18,12 @@
 
 ## My tech stack
 
-Languages | Frameworks/Libraries
-------------- | -------------
-JavaScript | React
-Python | jQuery
-SQL | Bootstrap
-HTML | Tailwind
-CSS | Materialize
-C# | Node.js (Express, Inquirer)
+| Languages | Frameworks/Libraries |
+| --------- | -------------------- |
+| JavaScript | React |
+| Python | jQuery |
+| SQL | Bootstrap |
+| HTML | Tailwind |
+| CSS | Materialize |
+| C# | Node.js (Express, Inquirer). | ![](https://raw.githubusercontent.com/west-korea/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://raw.githubusercontent.com/west-korea/github-stats/master/generated/overview.svg#gh-dark-mode-only)
