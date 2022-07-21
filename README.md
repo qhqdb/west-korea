@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi, and welcome to my GitHub! 👋 I'm Michael Ha.
 
--
-
-My name is Michael Ha.
+🔭 Currently I am working on creating Materialize CSS templates for quick and easy website deployment by small business owners like me.
 
 🌱 I am avidly learning computer science topics and new technologies to kickstart an early career in software engineering. 
 
