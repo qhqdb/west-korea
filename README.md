@@ -25,7 +25,7 @@ Python | jQuery
 SQL | Bootstrap
 HTML | Tailwind
 CSS | Materialize
-| Node.js (Express, Inquirer)
+  | Node.js (Express, Inquirer)
 
 <!--
 **west-korea/west-korea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
