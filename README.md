@@ -7,7 +7,7 @@
 ✨ Some fun facts about me:
 * I grew up in Jacksonville, Florida.
 * I lived in New York for 10 years (Queens all the way).
-* I'm a [personal trainer](https://squat.coach/)!
+* I'm a [personal trainer](https://squat.coach/).
 * I grew up on a farm!  I also studied Agricultural Sciences in college.  I am passionate about sustainability and drone use in agriculture.
 * Dogs make me so happy.  I don't have a dog yet knowing I'm not ready to take care of one, but I am grateful for every opportunity to meet one in Seattle (I love that I live in a dog-friendly city).
 
