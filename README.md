@@ -1,4 +1,4 @@
-###Hi, and welcome to my GitHub! 👋 I'm Michael Ha.
+### Hi, and welcome to my GitHub! 👋 I'm Michael Ha.
 
 🔭 Currently I am working on creating Materialize CSS templates for quick and easy website deployment by small business owners like me.
 
@@ -16,7 +16,7 @@
 📫 If you're a recruiter, please download my resume [here](http://qwods.dev/).  I welcome the opportunity for an interview to discuss the performance you can expect from me.
 
 
-##My tech stack
+## My tech stack
 
 Languages | Frameworks/Libraries
 ------------- | -------------
