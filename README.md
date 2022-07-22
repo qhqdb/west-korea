@@ -15,8 +15,6 @@
 
 📫 If you're a recruiter, please download my resume [here](http://qwods.dev/).  I welcome the opportunity for an interview to discuss the performance you can expect from me.
 
-![](https://raw.githubusercontent.com/west-korea/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
 | Languages | Frameworks/Libraries |
 | --------- | -------------------- |
 | JavaScript | React |
@@ -26,3 +24,4 @@
 | CSS | Materialize |
 | C# | Node.js (Express, Inquirer). |
 
+![](https://raw.githubusercontent.com/west-korea/github-stats/master/generated/overview.svg#gh-dark-mode-only)
