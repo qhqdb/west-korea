@@ -17,8 +17,6 @@
 
 ![](https://raw.githubusercontent.com/west-korea/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-## My tech stack
-
 | Languages | Frameworks/Libraries |
 | --------- | -------------------- |
 | JavaScript | React |
