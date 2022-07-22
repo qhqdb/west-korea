@@ -1,6 +1,6 @@
 ### 👋 Hi, and welcome to my GitHub!
 
-🔭 Currently I am working on creating a static site generator using Node and Materialize for quick and easy deployment of basic websites by small business owners like me.
+🔭 Currently I am working on creating a static site generator using Node.js and Materialize for quick and easy deployment of basic websites by small business owners like me.
 
 🌱 I am avidly learning computer science topics and new technologies to kickstart an early career in software engineering. 
 
@@ -22,6 +22,6 @@
 | SQL | Bootstrap |
 | HTML | Tailwind |
 | CSS | Materialize |
-| C# | Node |
+| C# | Node.js |
 
 ![](https://raw.githubusercontent.com/west-korea/github-stats/master/generated/overview.svg#gh-dark-mode-only)
