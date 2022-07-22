@@ -13,7 +13,7 @@
 
 💬 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/westkorea/).  I would love to chat with you about coding, fitness, or anything else you might be interested in.
 
-📫 If you're a recruiter, please download my resume [here](http://qwods.dev/).  I welcome the opportunity for an interview to discuss the performance you can expect from me.
+📫 If you're a recruiter, please download my resume [here](https://github.com/west-korea/Michael-Ha-resume/raw/main/Michael-Ha-resume.pdf).  I welcome the opportunity for an interview to discuss the performance you can expect from me.
 
 | Languages | Frameworks/Libraries |
 | --------- | -------------------- |
