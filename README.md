@@ -1,6 +1,6 @@
 ### 👋 Hi, and welcome to my GitHub!
 
-🔭 Currently I am working on creating website templates using Node and Materialize for quick and easy deployment by small business owners like me.
+🔭 Currently I am working on creating a static site generator using Node and Materialize for quick and easy deployment of basic websites by small business owners like me.
 
 🌱 I am avidly learning computer science topics and new technologies to kickstart an early career in software engineering. 
 
