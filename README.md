@@ -1,4 +1,4 @@
-### 👋 Hi, and welcome to my GitHub! I'm Michael Ha.
+### 👋 Hi, and welcome to my GitHub!
 
 🔭 Currently I am working on creating Materialize CSS templates for quick and easy website deployment by small business owners like me.
 
