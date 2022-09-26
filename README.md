@@ -1,4 +1,4 @@
-### 👋 Hi, and welcome to my GitHub!
+<a href="https://www.linkedin.com/in/squat"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mic.ha.el/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="[https://dev.to/mokkapps](https://dev.to/squat)"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
 🔭 Currently building a simple digital planner for hiking and camping called Planet Packet (built using React, socket.io, tomorrow.io, and the Hiker API).
 
