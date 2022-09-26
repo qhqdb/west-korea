@@ -13,13 +13,7 @@
 
 💬 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/squat/).  I would love to chat with you about coding, fitness, or anything else you might be interested in.
 
-| Languages | Frameworks/Libraries |
-| --------- | -------------------- |
-| JavaScript | React |
-| Python | jQuery |
-| SQL | Bootstrap |
-| HTML | Tailwind |
-| CSS | Materialize |
-| C# | Node.js |
+
+[![Skills](https://skillicons.dev/icons?i=git,html,css,bootstrap,react,js,nodejs,mysql,mongodb, python)]
 
 ![](https://raw.githubusercontent.com/west-korea/github-stats/master/generated/overview.svg#gh-dark-mode-only)
