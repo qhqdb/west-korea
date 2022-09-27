@@ -17,6 +17,3 @@
 ![Skills](https://skillicons.dev/icons?i=git,css,bootstrap,react,js,nodejs,mysql,mongodb,python)
 
 ![](https://raw.githubusercontent.com/west-korea/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-![https://www.linkedin.com/in/kristen-santee-aba1a631/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
