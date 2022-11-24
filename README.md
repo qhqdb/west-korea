@@ -11,7 +11,7 @@
 * I grew up on a farm!  I am passionate about agriculture, mycology, and sustainability.
 * Dogs are the best.  I don't have a dog yet knowing I'm not ready to take care of one, but I am grateful for every opportunity to meet one in Seattle.
 
-💬 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/squat/).  I would love to chat with you about coding, fitness, or anything else you might be interested in.
+💬 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/squat/).
 
 
 ![Skills](https://skillicons.dev/icons?i=git,css,bootstrap,react,js,nodejs,mysql,mongodb,python)
